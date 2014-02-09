@@ -1,0 +1,16 @@
+{
+  "name": "nedlah-heroku",
+  "version": "0.0.0",
+  "description": "ERROR: No README.md file found!",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gabeochoa/nedlah-heroku.git"
+  },
+  "author": "",
+  "license": "BSD",
+  "gitHead": "7f41e6e0e8538b2e00e17df7987e37d01b0780c7"
+}

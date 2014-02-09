@@ -11,6 +11,7 @@
     "url": "https://github.com/gabeochoa/nedlah-heroku.git"
   },
   "author": "",
-  "license": "BSD",
-  "gitHead": "7f41e6e0e8538b2e00e17df7987e37d01b0780c7"
+  "license": "bsd",
+  "gitHead": "7f41e6e0e8538b2e00e17df7987e37d01b0780c7",
+  "readmeFilename": "README.md"
 }
